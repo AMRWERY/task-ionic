@@ -1,0 +1,347 @@
+{
+  "markets": [
+    {
+      "id": 1,
+      "name": "king chicken",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfubzA3esKGW4Y2r6hAlPuC8diNp5dUwLaQA&usqp=CAU",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pizza King",
+      "logo": "data:image/png;base64,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",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tikkaway",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfubzA3esKGW4Y2r6hAlPuC8diNp5dUwLaQA&usqp=CAU",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Curry Kingdom",
+      "logo": "data:image/png;base64,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",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Spice Factory",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfubzA3esKGW4Y2r6hAlPuC8diNp5dUwLaQA&usqp=CAU",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Paneer Bar",
+      "logo": "data:image/png;base64,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",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tikka 'n' Talk",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfubzA3esKGW4Y2r6hAlPuC8diNp5dUwLaQA&usqp=CAU",
+      "items": [
+        {
+          "id": 1,
+          "title": "Burger",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg",
+          "price": 7,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "title": "Chicken",
+          "image": "https://www.allrecipes.com/thmb/nydRgXXleFYgigHjnklTvW01etI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-1x1-072-2275953244524b9cbd14b0f21bd0cadd.jpg",
+          "price": 25,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "title": "Fish",
+          "image": "https://images.indianexpress.com/2018/07/fish-sustainanbel-759.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "title": "Salade",
+          "image": "https://img.cuisineaz.com/660x660/2013/12/20/i34581-salade-nicoise-rapide.jpeg",
+          "price": 3,
+          "qty": 1
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "image": "https://www.recipetineats.com/wp-content/uploads/2020/05/Pepperoni-Pizza_5-SQjpg.jpg",
+          "price": 15,
+          "qty": 1
+        },
+        {
+          "id": 6,
+          "title": "Soft drinks",
+          "image": "https://c8.alamy.com/comp/BG74Y6/group-of-three-soft-drinks-in-various-glasses-with-garnish-BG74Y6.jpg",
+          "price": 5,
+          "qty": 1
+        }
+      ]
+    }
+  ]
+}
